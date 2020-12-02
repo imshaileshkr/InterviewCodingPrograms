@@ -1,7 +1,6 @@
 package com.bridgelabz.demo;
 /*
-* Created by: BridgeLabz
-* Date: 11/06/2016
+
 * Purpose: An Anagram Detection
 *One string is an anagram of another if the second is simply a rearrangement of the first. For example, 'heart' and 'earth' are anagrams
 **/
